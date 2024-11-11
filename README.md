@@ -22,7 +22,7 @@ Ensure you have **Rust** installed on your system. You can install Rust from [ru
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/todo-list.git](https://github.com/t9fiction/Rust-cli-ToDo.git)
+   git clone [https://github.com/t9fiction/Rust-cli-ToDo.git]
    ```
 
 2. Navigate to the project folder:
