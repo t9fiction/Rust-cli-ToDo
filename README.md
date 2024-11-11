@@ -89,5 +89,3 @@ If you would like to contribute to this project, please fork the repository and 
 This project is open-source and available under the MIT License.
 
 ---
-
-Feel free to modify this README according to any additional features or specific details you want to include!
